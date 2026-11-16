@@ -149,3 +149,5 @@ ui/node_modules/
 .vscode
 AGENTS.md
 out*
+!out-humanize/
+!out-humanize/**
